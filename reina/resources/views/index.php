@@ -34,5 +34,16 @@
         
         <h5>SCROLL DOWN</h5>
     </div>
+    <!-- About us Contaner -->
+    <div class="acontainer">
+        <div class="qb1">
+            <h1>About us</h1>
+        </div>
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+        <div class="line4"></div>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatibus vero eum?<br> Explicabo quae dolore doloremque voluptate eaque enim voluptas vero! Porro voluptates<br> tempore magni doloremque. Dolore accusamus placeat itaque!Lorem, ipsum dolor sit<br> amet consectetur  elit. Cumque voluptatibus vero eum? Explicabo quae dolore doloremque<br> voluptate eaque enim voluptas vero! Porro voluptates tempore magni doloremque. <br>Dolore accusamus placeat itaque!</p>
+    </div>
 </body>
 </html>
