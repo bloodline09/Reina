@@ -43,7 +43,28 @@
         <div class="line2"></div>
         <div class="line3"></div>
         <div class="line4"></div>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatibus vero eum?<br> Explicabo quae dolore doloremque voluptate eaque enim voluptas vero! Porro voluptates<br> tempore magni doloremque. Dolore accusamus placeat itaque!Lorem, ipsum dolor sit<br> amet consectetur  elit. Cumque voluptatibus vero eum? Explicabo quae dolore doloremque<br> voluptate eaque enim voluptas vero! Porro voluptates tempore magni doloremque. <br>Dolore accusamus placeat itaque!</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br> Cumque voluptatibus vero eum? Explicabo quae dolore<br> doloremque voluptate eaque enim voluptas vero! Porro<br> voluptates tempore magni doloremque. Dolore accusamus<br> placeat itaque!Lorem, ipsum dolor sit amet consectetur  elit.<br> Cumque voluptatibus vero eum? Explicabo quae dolore<br> doloremque voluptate eaque enim voluptas vero! Porro<br> voluptates tempore magni doloremque.</p>
+    </div>
+    <!-- services Contaner -->
+    <div class="scontainer">
+        <div class="qb2">
+            <h1>Services</h1>
+        </div>
+        <div class="sb1">
+            <img src="/IMG/s1.png" alt="">
+            <h3>Buy Product</h3>
+            <span>Lorem ipsum dolor sit amet<br> consectetur adipisicing elit.<br> Voluptatem, veniam. consectetur<br> adipisicing elit.</span>
+        </div>
+        <div class="sb2">
+            <img src="/IMG/s2.png" alt="">
+            <h3>Sell Product</h3>
+            <span>Lorem ipsum dolor sit amet<br> consectetur adipisicing elit.<br> Voluptatem, veniam. consectetur<br> adipisicing elit.</span>
+        </div>
+        <div class="sb3">
+            <img src="/IMG/s3.png" alt="">
+            <h3>Trade Product</h3>
+            <span>Lorem ipsum dolor sit amet<br> consectetur adipisicing elit.<br> Voluptatem, veniam. consectetur<br> adipisicing elit.</span>
+        </div>
     </div>
 </body>
 </html>

@@ -188,34 +188,106 @@ button:active {
     color: #243327;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin-top: -230px;
-    margin-left: 90px;
+    margin-top: -276px;
+    margin-left: 400px;
 }
 .line1{
     position: absolute;
     border-top: 5px solid #88A286;
-    left: 2.5em;
-    top: 78em;
+    left: 21em;
+    top: 75em;
     width: 100px;
 }
 .line2{
     position: absolute;
     border-left: 5px solid #88A286;
-    left: 3.5em;
-    top: 77em;
+    left: 22em;
+    top: 74em;
     height: 100px;
 }
 .line3{
     position: absolute;
     border-top: 5px solid #88A286;
-    left: 70em;
-    top: 95em;
+    left: 67em;
+    top: 97em;
     width: 100px;
 }
 .line4{
     position: absolute;
     border-right: 5px solid #88A286;
-    left: 75em;
-    top: 90em;
+    left: 72em;
+    top: 92em;
     height: 100px;
+}
+
+                    /*Services page*/
+.scontainer{
+    background-image: url(/IMG/sbg.png);
+    width: 1903px;
+    height: 60em;
+}
+.qb2{
+    width: 400px;
+    height: 700px;
+    background-color: #88A286;
+    position: relative;
+    top: 50%;
+    left: 17.6%;
+    transform: translate(-50%, -50%);
+}
+.qb2 h1{
+    text-orientation: mixed;
+    font-family: Helvetica,"sans-serif";
+    font-weight: 700;
+    font-size: 60px;
+    position: relative;
+    top: 45%;
+    left: 30%;
+    transform: translate(-50%, -50%) rotate(270deg);
+}
+                    /*Card*/
+.sb1{
+    width: 300px;
+    height: 400px;
+    background-color: #eeefea;
+    position: relative;
+    top: -22%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+}
+.sb2{
+    width: 300px;
+    height: 400px;
+    background-color: #eeefea;
+    position: relative;
+    top: -63.6%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.sb3{
+    width: 300px;
+    height: 400px;
+    background-color: #eeefea;
+    position: relative;
+    top: -105.3%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+}
+.sb1 img, .sb2 img, .sb3 img{
+    position: relative;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 260px;
+    height: 140px;
+}
+.sb1 h3, .sb2 h3, .sb3 h3{
+    font-family: Helvetica,"sans-serif";
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.sb1 span, .sb2 span, .sb3 span{
+    font-family: Helvetica,"sans-serif";
+    position: relative;
+    left: 20px;
 }
